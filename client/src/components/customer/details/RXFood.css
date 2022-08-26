@@ -1,0 +1,35 @@
+.item_row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.desc {
+    width: 20%;
+    height: 100%;
+}
+
+.calorie_dist{
+    width: 40%;
+    height: 100%;
+}
+
+.grain_dist {
+    width: 40%;
+    height: 100%;
+}
+
+.avg_plate{
+    width: 30%;
+    height: 100%;
+}
+
+.avg_text {
+    position: relative;
+    left: 40px;
+}
+
+.desc {
+    text-align: left;
+}

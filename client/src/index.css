@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+}
+
+.header .links {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.showcase {
+    background: url('./components/landing/landingPage2.jpg') no-repeat;
+    background-size: cover;
+    overflow: auto;
+}
+
+.showcase .overlay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 1000px;
+    width: auto;
+    color: black;
+    background-color: (0,0,0,0.4);
+    background-size: cover;
+    float: right;
+}
+
+
+.showcase .overlay .h1 {
+    font-size: 36px;
+    padding-bottom: 50px;
+}
+
+@media (min-width:768px) {
+    .showcase .overlay h1{
+        font-size: 48px;
+    }
+}

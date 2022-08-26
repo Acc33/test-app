@@ -1,0 +1,50 @@
+{
+  "../components/customer/charts/BasicBarChart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  },
+  "../components/customer/charts/GarminHRLineChart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  },
+  "../components/customer/charts/GoalBarchart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  },
+  "../components/customer/charts/HorizontalBarChart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  },
+  "../components/customer/charts/Piechart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  },
+  "../components/customer/charts/Radarchart.js -> react-apexcharts": {
+    "id": 7229,
+    "files": [
+      "static/chunks/framework-f81359141e1b0bbb.js",
+      "static/chunks/6c44d60f.77cbddf06db28d81.js",
+      "static/chunks/229.6cbf5c907da8f156.js"
+    ]
+  }
+}

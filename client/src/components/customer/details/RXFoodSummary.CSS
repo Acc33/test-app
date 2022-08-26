@@ -1,0 +1,9 @@
+.summary_row {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+ul li {
+    display: list-item;
+}

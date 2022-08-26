@@ -1,0 +1,18 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/account": "pages/account.html",
+  "/customers/[patientName]/foodrx": "pages/customers/[patientName]/foodrx.html",
+  "/customers/[patientName]/garmin": "pages/customers/[patientName]/garmin.html",
+  "/customers/[patientName]": "pages/customers/[patientName].html",
+  "/customers/[patientName]/lightbuzz": "pages/customers/[patientName]/lightbuzz.html",
+  "/customers/[patientName]/survey": "pages/customers/[patientName]/survey.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/patients": "pages/patients.html",
+  "/products": "pages/products.html",
+  "/register": "pages/register.html",
+  "/settings": "pages/settings.html",
+  "/_error": "pages/_error.js"
+}
